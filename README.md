@@ -1,5 +1,5 @@
-# Men-GitHubers
-Let's collect the data of men on GitHub, who inspired you to code more.
+# Women-GitHubers
+Let's collect the data of Women on GitHub, who inspired you to code more.
 
 - [Contribution Guideline](https://github.com/techieshubs/Women-GitHubers/blob/master/CONTRIBUTORS.md)
 
