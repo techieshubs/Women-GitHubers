@@ -7,8 +7,8 @@ Name (City, Country) | [GitHub Username](your github link) | [Medium Username](y
  ## Rules
  
  - Your PR title must be one of below
-   - Adding [Your Name] Ex. Adding Pratik Butani
-   - Add [Your Name] Ex. Add Pratik Butani
+   - Adding [Your Name] Ex. Adding Mayuri Patel
+   - Add [Your Name] Ex. Add Mayuri Patel
  - It must be validated properly.
  - List must be ordered **alphabetically**.
  
